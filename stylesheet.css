@@ -8,3 +8,10 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.tile{
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  padding: 25px;
+}
